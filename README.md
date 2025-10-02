@@ -90,23 +90,4 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ---
 
-## 📉 Future Improvements
-- ✅ User authentication (admin login)
-- ✅ Bulk upload via CSV
-- ✅ Pagination and search
-- ✅ REST API endpoints
-- ✅ Email reminders for overdue books
-
----
-
-## 🤝 Contributing
-Feel free to fork, improve, and submit a PR. Contributions are welcome!
-
----
-
-## 📜 License
-MIT License © 2025 – Open Source Project
-
----
-
 **Made with ❤️ in Python & Flask** – Designed for learning, scalability, and simplicity.
